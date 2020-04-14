@@ -24,7 +24,7 @@ sections:
   templates:
   - journal
 - type: heading
-  label: Data
+  label: Dataa
 - type: document
   path: portfolio/config.json
   label: Site Config
